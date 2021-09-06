@@ -1,0 +1,5 @@
+<style type="text/css">
+#sideNavBox { display: none; }
+#contentBox { margin-left: 20px; }
+</style>
+
