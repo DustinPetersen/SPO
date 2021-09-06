@@ -1,19 +1,2 @@
-### Usefull SPO scripts
-
-
-
-
-### Folder-bread-crumb
-
-
-#### Hide-Side-Nav
-
-
-#### Timezone
-
-
-
-#### truncate-multiline-Text
-
-
+collection of snippets used to create a more friendly SharePoint user experience.
 
