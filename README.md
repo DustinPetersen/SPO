@@ -1,19 +1,19 @@
-# Usefull SPO scripts
+### Usefull SPO scripts
 
 
 
 
-# Folder-bread-crumb
+### Folder-bread-crumb
 
 
-# Hide-Side-Nav
+#### Hide-Side-Nav
 
 
-# Timezone
+#### Timezone
 
 
 
-# truncate-multiline-Text
+#### truncate-multiline-Text
 
 
 
