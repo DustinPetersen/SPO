@@ -1,3 +1,3 @@
 Webpart using moment.js to view timezones relative to current time.
 
-![](timezone.png)
+![](./Timezone/timezone.png)
