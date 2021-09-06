@@ -1,3 +1,3 @@
-Webpart using moment.js to view timezones relative to current time.
+Webpart using moment.js to view multiple timezones.
 
-![](./Time-Zone/Timezone.png)
+![](/Time-Zone/Timezone.png)
